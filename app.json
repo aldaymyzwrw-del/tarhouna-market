@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "ترهونة ماركت",
+    "slug": "tarhouna-market",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "ly.tarhouna.market"
+    }
+  }
+}
